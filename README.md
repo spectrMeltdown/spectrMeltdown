@@ -6,5 +6,5 @@ A Frontend web developer / Cross-Platform developer (Flutter)
 Currently looking for a full-time frontend job;
 - ⚙️ I use this mostly: .php, .tsx, .css, .psd, .ai
 - 🌍 I'm currently in the React community, sharpening my skills
-- 🛠️ Top projects are [MABISA](https://github.com/badiang/mabisa2.0), Block-Logic, and Marathon Tracker
+- 🛠️ Partially developed [MABISA](https://mabisa-aloran.com), and fully developed [Block-Logic](https://block-logic.site) and [Marathon Tracker](https://marathon-tracking-device.web.app/).
 - 💬 Shoot me a message about your project and let's build!
