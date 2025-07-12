@@ -2,9 +2,10 @@
 
 [Portfolio](https://spectrmeltdown.github.io/portfolio/) • [Email](mailto:wddiamada@gmail.com)
 
-A Frontend web developer / Cross-Platform developer (Flutter)
-Currently looking for a full-time frontend job;
+A Web developer and Cross-Platform developer (via Flutter)
+Currently working full-time at Balete Eco-Farm as Software Developer;
+Willing to work part-time;
 - ⚙️ I use this mostly: .php, .tsx, .psd, .ai
 - 🌍 I'm currently in the React community, sharpening my skills
-- 🛠️ Partially developed [MABISA](https://mabisa-aloran.com), and fully developed [Block-Logic](https://block-logic.site) and [Marathon Tracker](https://marathon-tracking-device.web.app/).
+- 🛠️ Contributed to [MABISA](https://mabisa-aloran.com). Singly made [Block-Logic](https://block-logic.site) and [Marathon Tracker](https://marathon-tracking-device.web.app/).
 - 💬 Shoot me a message about your project and let's build!
