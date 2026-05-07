@@ -3,7 +3,7 @@
 [Portfolio](https://spectrmeltdown.github.io/portfolio/) • [Email](mailto:wddiamada@gmail.com)
 
 A Web developer and Cross-Platform developer (via Flutter).<br/>
-Currently working full-time at Balete Eco-Farm as Software Developer.<br/>
+Currently working full-time at Durong's Malunggay Pandesal as Software Developer.<br/>
 Willing to work part-time.<br/>
 - ⚙️ I mostly use Python, JavaScript, and Flutter
 - 🌍 I'm currently building modules & systems with Odoo
