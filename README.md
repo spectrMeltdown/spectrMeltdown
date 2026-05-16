@@ -4,7 +4,7 @@
 
 A Software Developer.<br/>
 Currently working full-time at Durong's Malunggay Pandesal.<br/>
-Willing to work full-time.<br/>
+Willing to work part-time and/or project based.<br/>
 - ⚙️ I mostly use Python, JavaScript, and Flutter
 - 🌍 I'm currently building modules & systems with Odoo
 - 🛠️ Contributed to MABISA. Singly made [Block-Logic](https://block-logic.site) and [Marathon Tracker](https://marathon-tracking-device.web.app/).
