@@ -3,7 +3,7 @@
 [Portfolio](https://spectrmeltdown.github.io/portfolio/) • [Email](mailto:wddiamada@gmail.com)
 
 A Software Developer.<br/>
-Currently working full-time at Durong's Malunggay Pandesal.<br/>
+Currently working full-time at EFS SystemCore.<br/>
 Willing to work part-time and/or project based.<br/>
 - ⚙️ I mostly use Python, JavaScript, and Flutter
 - 🌍 I'm currently building modules & systems with Odoo
